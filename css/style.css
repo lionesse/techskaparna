@@ -906,7 +906,7 @@ a {
 .player {
   position: relative; }
   .player img {
-    max-width: 100px;
+    max-width: 50px;
     border-radius: 50%;
     margin-bottom: 20px; }
   .player .team-number {
