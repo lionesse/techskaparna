@@ -437,7 +437,7 @@ a {
     width: 100%; }
   .site-blocks-cover, .site-blocks-cover .row {
     min-height: 600px;
-    height: calc(100vh); }
+    height: calc(70vh); }
   .site-blocks-cover.inner-page-cover, .site-blocks-cover.inner-page-cover .row {
     min-height: 600px;
     height: calc(30vh); }
